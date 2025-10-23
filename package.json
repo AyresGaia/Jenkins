@@ -1,0 +1,13 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Sample Node.js app for Jenkins + Vercel deployment",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "echo Building app...", 
+    "test": "echo Running tests..."
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
